@@ -13,7 +13,7 @@ This integration enrich and ingests the following logs from Cisco Secure FTD usi
 - Application Firewall Logs
 - Identity-based Firewall Logs
 - Command Interface Logs
-- OSPF Rotuing Logs
+- OSPF Routing Logs
 - RIP Routing Logs
 - Resource Manager Logs
 - VPN Failover Logs
